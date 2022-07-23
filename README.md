@@ -28,3 +28,5 @@ substrate-node-template文件夹中，终端运行命令，开启节点
 本项目中，终端运行命令
 ts-node main.ts 
 
+![screenshot1](https://user-images.githubusercontent.com/102146042/180617659-7715b5b4-1dd6-4d4b-a26b-c236039de89d.png)
+![screenshot2](https://user-images.githubusercontent.com/102146042/180617661-65d67887-cbcd-4720-9124-7a4b63de8cb3.png)
